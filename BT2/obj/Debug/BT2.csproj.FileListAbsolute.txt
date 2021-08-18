@@ -1,0 +1,10 @@
+G:\code\C#\BT_BUOI4_17_7\BT2\bin\Debug\BT2.exe.config
+G:\code\C#\BT_BUOI4_17_7\BT2\bin\Debug\BT2.exe
+G:\code\C#\BT_BUOI4_17_7\BT2\bin\Debug\BT2.pdb
+G:\code\C#\BT_BUOI4_17_7\BT2\obj\Debug\BT2.csproj.AssemblyReference.cache
+G:\code\C#\BT_BUOI4_17_7\BT2\obj\Debug\BT2.Form1.resources
+G:\code\C#\BT_BUOI4_17_7\BT2\obj\Debug\BT2.Properties.Resources.resources
+G:\code\C#\BT_BUOI4_17_7\BT2\obj\Debug\BT2.csproj.GenerateResource.cache
+G:\code\C#\BT_BUOI4_17_7\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+G:\code\C#\BT_BUOI4_17_7\BT2\obj\Debug\BT2.exe
+G:\code\C#\BT_BUOI4_17_7\BT2\obj\Debug\BT2.pdb

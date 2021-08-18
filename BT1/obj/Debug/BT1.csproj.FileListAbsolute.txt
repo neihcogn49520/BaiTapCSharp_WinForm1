@@ -1,0 +1,10 @@
+G:\code\C#\BT_BUOI4_17_7\BT1\bin\Debug\VD1.exe.config
+G:\code\C#\BT_BUOI4_17_7\BT1\bin\Debug\VD1.exe
+G:\code\C#\BT_BUOI4_17_7\BT1\bin\Debug\VD1.pdb
+G:\code\C#\BT_BUOI4_17_7\BT1\obj\Debug\VD1.Form1.resources
+G:\code\C#\BT_BUOI4_17_7\BT1\obj\Debug\VD1.Properties.Resources.resources
+G:\code\C#\BT_BUOI4_17_7\BT1\obj\Debug\BT1.csproj.GenerateResource.cache
+G:\code\C#\BT_BUOI4_17_7\BT1\obj\Debug\BT1.csproj.CoreCompileInputs.cache
+G:\code\C#\BT_BUOI4_17_7\BT1\obj\Debug\VD1.exe
+G:\code\C#\BT_BUOI4_17_7\BT1\obj\Debug\VD1.pdb
+G:\code\C#\BT_BUOI4_17_7\BT1\obj\Debug\BT1.csproj.AssemblyReference.cache
