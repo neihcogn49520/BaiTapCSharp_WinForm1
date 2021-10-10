@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Hello World\TextBox\bin\Debug\TextBox.exe.config
+C:\Users\dell\source\repos\Hello World\TextBox\bin\Debug\TextBox.exe
+C:\Users\dell\source\repos\Hello World\TextBox\bin\Debug\TextBox.pdb
+C:\Users\dell\source\repos\Hello World\TextBox\obj\Debug\TextBox.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Hello World\TextBox\obj\Debug\TextBox.Form1.resources
+C:\Users\dell\source\repos\Hello World\TextBox\obj\Debug\TextBox.Properties.Resources.resources
+C:\Users\dell\source\repos\Hello World\TextBox\obj\Debug\TextBox.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Hello World\TextBox\obj\Debug\TextBox.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Hello World\TextBox\obj\Debug\TextBox.exe
+C:\Users\dell\source\repos\Hello World\TextBox\obj\Debug\TextBox.pdb
