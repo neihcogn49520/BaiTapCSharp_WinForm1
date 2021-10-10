@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Hello World\Label\bin\Debug\Label.exe.config
+C:\Users\dell\source\repos\Hello World\Label\bin\Debug\Label.exe
+C:\Users\dell\source\repos\Hello World\Label\bin\Debug\Label.pdb
+C:\Users\dell\source\repos\Hello World\Label\obj\Debug\Label.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Hello World\Label\obj\Debug\Label.Form1.resources
+C:\Users\dell\source\repos\Hello World\Label\obj\Debug\Label.Properties.Resources.resources
+C:\Users\dell\source\repos\Hello World\Label\obj\Debug\Label.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Hello World\Label\obj\Debug\Label.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Hello World\Label\obj\Debug\Label.exe
+C:\Users\dell\source\repos\Hello World\Label\obj\Debug\Label.pdb
