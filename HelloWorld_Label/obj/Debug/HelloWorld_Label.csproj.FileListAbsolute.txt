@@ -1,0 +1,9 @@
+C:\Users\dell\source\repos\Hello World\HelloWorld_Label\bin\Debug\HelloWorld_Label.exe.config
+C:\Users\dell\source\repos\Hello World\HelloWorld_Label\bin\Debug\HelloWorld_Label.exe
+C:\Users\dell\source\repos\Hello World\HelloWorld_Label\bin\Debug\HelloWorld_Label.pdb
+C:\Users\dell\source\repos\Hello World\HelloWorld_Label\obj\Debug\HelloWorld_Label.Form1.resources
+C:\Users\dell\source\repos\Hello World\HelloWorld_Label\obj\Debug\HelloWorld_Label.Properties.Resources.resources
+C:\Users\dell\source\repos\Hello World\HelloWorld_Label\obj\Debug\HelloWorld_Label.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Hello World\HelloWorld_Label\obj\Debug\HelloWorld_Label.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Hello World\HelloWorld_Label\obj\Debug\HelloWorld_Label.exe
+C:\Users\dell\source\repos\Hello World\HelloWorld_Label\obj\Debug\HelloWorld_Label.pdb
