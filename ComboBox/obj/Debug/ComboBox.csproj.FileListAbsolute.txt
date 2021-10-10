@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Hello World\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\dell\source\repos\Hello World\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\dell\source\repos\Hello World\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\dell\source\repos\Hello World\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Hello World\ComboBox\obj\Debug\ComboBox.Form1.resources
+C:\Users\dell\source\repos\Hello World\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\dell\source\repos\Hello World\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Hello World\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Hello World\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\dell\source\repos\Hello World\ComboBox\obj\Debug\ComboBox.pdb
