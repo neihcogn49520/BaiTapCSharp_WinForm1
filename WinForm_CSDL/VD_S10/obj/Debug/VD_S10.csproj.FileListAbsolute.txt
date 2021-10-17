@@ -1,0 +1,10 @@
+G:\code\C#\VD_BUOI6_20_7\VD_S10\bin\Debug\VD_S10.exe.config
+G:\code\C#\VD_BUOI6_20_7\VD_S10\bin\Debug\VD_S10.exe
+G:\code\C#\VD_BUOI6_20_7\VD_S10\bin\Debug\VD_S10.pdb
+G:\code\C#\VD_BUOI6_20_7\VD_S10\obj\Debug\VD_S10.csproj.AssemblyReference.cache
+G:\code\C#\VD_BUOI6_20_7\VD_S10\obj\Debug\VD_S10.Form1.resources
+G:\code\C#\VD_BUOI6_20_7\VD_S10\obj\Debug\VD_S10.Properties.Resources.resources
+G:\code\C#\VD_BUOI6_20_7\VD_S10\obj\Debug\VD_S10.csproj.GenerateResource.cache
+G:\code\C#\VD_BUOI6_20_7\VD_S10\obj\Debug\VD_S10.csproj.CoreCompileInputs.cache
+G:\code\C#\VD_BUOI6_20_7\VD_S10\obj\Debug\VD_S10.exe
+G:\code\C#\VD_BUOI6_20_7\VD_S10\obj\Debug\VD_S10.pdb
